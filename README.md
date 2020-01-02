@@ -31,5 +31,7 @@ ou
 
 ##### OBS: sempre utilize o url facebook mobile > (https://m.face..) ou (https://mbasic.face..) e não o desktop > (http://www.face..) pois o unico que retorna a imagem a ser analizada é a versão mobile.
 
+##### OBS: Alguns perfils se encontraram em erro, eu fui dar uma checada e vi que o problema é na conta do facebook, pois apenas uma de varias me resultou em erro, pelo que entendi, ele não retorna a imagem, ou algo do tipo
+
 
 > ~ by Rob ~
